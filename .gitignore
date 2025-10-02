@@ -1,1 +1,5 @@
 *.ipynb_*
+*.dat
+*.onnx
+*.caffemodel
+*.prototxt
