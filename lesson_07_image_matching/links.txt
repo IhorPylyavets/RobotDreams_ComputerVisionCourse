@@ -1,0 +1,4 @@
+1. https://www.cse.psu.edu/~rtc12/CSE486/lecture15.pdf
+2. https://docs.opencv.org/4.x/d9/dab/tutorial_homography.html
+3. https://arxiv.org/pdf/1905.03277
+4. https://arxiv.org/pdf/2205.11202

@@ -1,0 +1,4 @@
+1. https://www.anaconda.com/download
+2. https://numpy.org/
+3. https://opencv.org/
+4. https://matplotlib.org/

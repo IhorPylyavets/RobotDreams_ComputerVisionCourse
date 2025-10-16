@@ -9,3 +9,14 @@ Does one tracker perform better than the other? In what way?
 Алгоритм трекінгу CSRT при тестах показав кращі результати ніж KCF.
 
 Алгоритм CSRT в порівнянні KCF кращий, але вимагає більше ресусів на обчислення.
+
+
+
+There are plenty of other object tracking alternatives (besides OpenCV), e.g.,
+- https://encord.com/blog/video-object-tracking-algorithms/
+or
+- https://pyimagesearch.com/2018/10/22/object-tracking-with-dlib/
+and many more:
+https://github.com/roboflow/trackers
+https://docs.ultralytics.com/modes/track/
+And don't forget the Kalman filter ;-)

@@ -1,0 +1,5 @@
+1. https://en.wikipedia.org/wiki/Discrete_cosine_transform
+2. https://www.wowza.com/blog/hevc
+3. https://videoprocessing.ai/metrics/ways-of-cheating-on-popular-objective-metrics.html
+4. https://medium.com/analytics-vidhya/what-are-dct-coefficients-and-how-jpeg-compression-works-7f46d1e22b4c
+5. https://arxiv.org/pdf/2209.15405

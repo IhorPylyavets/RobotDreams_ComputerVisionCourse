@@ -1,0 +1,3 @@
+1. https://towardsdatascience.com/canny-edge-detection-in-5-minutes-27236af71ce2/
+2. https://arxiv.org/abs/2210.10233
+3. https://www.plugger.ai/blog/what-are-the-applications-of-edge-detection

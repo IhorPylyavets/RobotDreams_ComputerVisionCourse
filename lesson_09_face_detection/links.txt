@@ -1,0 +1,5 @@
+1. https://learnopencv.com/face-detection-opencv-dlib-and-deep-learning-c-python/
+2. https://towardsdatascience.com/viola-jones-algorithm-and-haar-cascade-classifier-ee3bfb19f7d8/
+3. https://docs.opencv.org/3.4/db/d28/tutorial_cascade_classifier.html
+4. https://en.wikipedia.org/wiki/Precision_and_recall
+5. https://docs.opencv.org/3.4/dc/d88/tutorial_traincascade.html

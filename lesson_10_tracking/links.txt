@@ -1,0 +1,5 @@
+1. https://docs.opencv.org/3.4/d2/d0a/tutorial_introduction_to_tracker.html
+2. https://learnopencv.com/object-tracking-using-opencv-cpp-python/
+3. https://kalmanfilter.net/
+4. https://broutonlab.com/blog/opencv-object-tracking
+5. https://www.inf.fu-berlin.de/inst/ag-ki/rojas_home/documents/tutorials/Lucas-Kanade2.pdf
