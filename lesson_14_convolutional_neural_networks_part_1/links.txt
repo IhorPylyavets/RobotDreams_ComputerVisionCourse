@@ -1,0 +1,4 @@
+1. https://machinelearningmastery.com/pooling-layers-for-convolutional-neural-networks/
+2. https://medium.com/data-science-bootcamp/understand-the-softmax-function-in-minutes-f3a59641e86d
+3. https://www.educative.io/blog/one-hot-encoding
+4. towardsdatascience.com Cross-entropy
